@@ -68,7 +68,7 @@ incelenmiştir.
 
 Veri setinin boyutu:
 
-```text
+"text
 569 satır
 31 sütun
 
